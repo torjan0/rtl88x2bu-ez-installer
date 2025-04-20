@@ -20,7 +20,7 @@ A simple Bash script to automate the build and installation of the out‑of‑tr
 
 1. **Download the script**  
    ```bash
-   wget https://github.com/<your-username>/rtl88x2bu-installer/raw/main/install-rtl88x2bu.sh
+   wget https://github.com/torjan0/rtl88x2bu-ez-installer/raw/main/install-rtl88x2bu.sh
    ```
 
 2. **Make it executable**  
