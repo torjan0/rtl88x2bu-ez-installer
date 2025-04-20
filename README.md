@@ -82,8 +82,5 @@ echo "✅ Driver installed. Please reboot when convenient."
 
 - **Driver Source:** [morrownr/88x2bu](https://github.com/morrownr/88x2bu-20210702) by morrownr  
 - **Chipset:** Realtek RTL88x2BU (AC1200 Techkey)  
-- **Script Author:** Your Name (@thewizard)  
+- **Script Author:** Maks (@thewizard)  
 
-## License
-
-This project is licensed under the MIT License. Feel free to fork and adapt!
